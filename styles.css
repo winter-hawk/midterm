@@ -1,0 +1,30 @@
+img {
+  width: 100%;
+}
+
+.img-wrapper {
+  width: 100%;
+}
+
+.caption {
+  color: grey;
+  margin-top: 0px;
+  font-family: Monsserrat, sans-serif;
+}
+
+h1, h4, h5 {
+  font-family: Monsserrat, sans-serif;
+}
+
+#content {
+  margin: 0px auto;
+  width: 75%;
+}
+
+body {
+  font-family: Lora, open-sans;
+}
+
+h4 {
+  font-style: italic;
+}
